@@ -12,5 +12,5 @@ This is a simple Invoice Generator built using React. It allows users to generat
 
 ### Installation
 
-1. Clone the repository to your local machine:
+* Clone the repository to your local machine:
 
