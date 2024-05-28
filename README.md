@@ -1,7 +1,7 @@
 # Invoice-Generator
 ## React Invoice Generator
 
-This is a simple Invoice Generator built using React. It allows users to generate invoices by filling out a form with necessary details such as client information, items, quantities, and prices. Once generated, the invoice can be saved or printed.
+A React project to streamline the creation of professional invoices. This web application features a user-friendly form for inputting client information, item details, quantities, and prices. It performs dynamic calculations for totals and subtotals, and offers a real-time preview of the invoice. Users can save or print the finalized invoices directly from the application. The responsive design ensures optimal use across both desktop and mobile devices. This project showcases the efficiency and intuitiveness of React in building practical web applications that enhance productivity for small business owners and freelancers.
 
 ### Features
 
